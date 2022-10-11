@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @V0rtexCode.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning Expert level software engineering.
+- 📫 How to reach me vortexx.work@gmail.com
